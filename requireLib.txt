@@ -1,3 +1,11 @@
 picamera2
 opencv
 python3
+numpy
+matplotlib.pyplot
+math
+collections
+serial
+time
+threading
+tensorflow.lite.python.interpreter
